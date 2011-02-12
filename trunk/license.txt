@@ -1,0 +1,10 @@
+/////////////////////////////////////////////
+// MailmanUtilities License                //
+// Copyright (C) 2011 JPSIII               //
+// http://mailmanutilities.googlecode.com  //
+/////////////////////////////////////////////
+BY DOWNLOADING AND USING, YOU AGREE TO THE FOLLOWING TERMS: 
+
+If it is your intent to use this software for non-commercial purposes,  
+such as in academic research, this software is free and is covered under  
+the GNU GPL License, given here: <http://www.gnu.org/licenses/gpl.txt>  
