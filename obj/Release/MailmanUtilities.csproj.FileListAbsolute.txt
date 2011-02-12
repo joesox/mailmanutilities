@@ -1,0 +1,12 @@
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\bin\Release\MailmanUtilities.exe.config
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\bin\Release\MailmanUtilities.exe
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\bin\Release\MailmanUtilities.pdb
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\bin\Release\WordNetClasses.dll
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\obj\Release\MailmanUtilities.AboutBox1.resources
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\obj\Release\MailmanUtilities.Form1.resources
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\obj\Release\MailmanUtilities.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\obj\Release\MailmanUtilities.exe
+C:\Users\Joe\Documents\Visual Studio 2010\Projects\personal\MailmanUtilities\MailmanUtilities\obj\Release\MailmanUtilities.pdb
